@@ -13,8 +13,7 @@ i just fixed the compability for android 10 and above  from main project
 
 http://socket.io/blog/native-socket-io-and-android/
 
-## Misc
-https://github.com/socketio/socket.io/issues/2823
+ 
 
 ## License
 
