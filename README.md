@@ -15,8 +15,7 @@ Works with socket io https server
 
 http://socket.io/blog/native-socket-io-and-android/
 
-## Misc
-https://github.com/socketio/socket.io/issues/2823
+ 
 
 ## License
 
